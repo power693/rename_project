@@ -1,2 +1,15 @@
-# Python dependencies
-PyQt6
+# Python dependencies for File Renamer project
+PyQt6==6.9.1
+PyQt6_sip==13.10.2
+tkinterdnd2==0.4.3
+
+# Packaging dependencies
+pyinstaller==6.18.0
+pyinstaller-hooks-contrib==2025.11
+altgraph==0.17.5
+pefile==2024.8.26
+pywin32-ctypes==0.2.3
+
+# Build system
+setuptools==80.9.0
+wheel==0.45.1
